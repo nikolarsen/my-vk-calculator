@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/calculator-vk-app/static/css/main.09114ced.css",
+    "main.js": "/calculator-vk-app/static/js/main.6a121831.js",
+    "index.html": "/calculator-vk-app/index.html",
+    "main.09114ced.css.map": "/calculator-vk-app/static/css/main.09114ced.css.map",
+    "main.6a121831.js.map": "/calculator-vk-app/static/js/main.6a121831.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09114ced.css",
+    "static/js/main.6a121831.js"
+  ]
+}
