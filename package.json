@@ -1,6 +1,7 @@
 {
   "name": "my-vk-app",
   "version": "0.1.0",
+  "homepage": "https://nikolarsen.github.io/calculator-vk-app",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
